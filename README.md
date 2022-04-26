@@ -22,4 +22,4 @@ Sin embargo, ¿es todo este gasto necesario e imprescindible para el correcto fu
 De esta forma, con este proyecto queremos analizar con detalle el consumo de gran parte de la UPV para determinar si este gasto energético puede ser más eficiente, y así rebajar está parte del presupuesto, siempre sin perder de vista el objetivo primordial de la universidad, que es prestar sus servicios a todos sus integrantes cuando lo requieran.
 
 Más información en Memoria.docx
-[Pequeña presentación del proyecto](https://prezi.com/view/OxK4LyLNWSxNtFGoBnKw/)
+- [Pequeña presentación del proyecto](https://prezi.com/view/OxK4LyLNWSxNtFGoBnKw/)
