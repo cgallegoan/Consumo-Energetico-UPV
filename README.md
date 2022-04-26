@@ -23,3 +23,4 @@ De esta forma, con este proyecto queremos analizar con detalle el consumo de gra
 
 Más información en Memoria.docx
 - [Pequeña presentación del proyecto](https://prezi.com/view/OxK4LyLNWSxNtFGoBnKw/)
+- Una vista interactiva del consumo por edificio se puede visualizar en MAPA.exe
