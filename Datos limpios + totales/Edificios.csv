@@ -1,0 +1,201 @@
+;EDIFICIOS;CONSUMO;MESES
+0;0A: Consumo elÃÂ©ctrico general del alumbrado pÃÂºblico;9940;1
+1;A.1B (FerrÃÂ¡ndiz): consumo elÃÂ©ctrico general;50089;1
+2;A.1C (Carbonell): consumo elÃÂ©ctrico general;71096;1
+3;A.1D (Deportes): consumo elÃÂ©ctrico general;33117;1
+4;Consumo elÃÂ©ctrico del edificio V.5Q;3104;1
+5;Consumo elÃÂ©ctrico general;15141156;1
+6;Consumo elÃÂ©ctrico general de la CPI: edificios V.8G, V.8E, V.8B, V.8M;1737853835;1
+7;Consumo elÃÂ©ctrico general de la ETSIAMN: edificios V.3C, V.3G, V.3H, V.3I, V.3J, V.3K;109472;1
+8;Consumo elÃÂ©ctrico general de la ETSICCyP: edificios V.4A, V.4E, V.4H;40572;1
+9;Consumo elÃÂ©ctrico general de la ETSID: edificios V.7B y V.7E;7754;1
+10;Consumo elÃÂ©ctrico general de las pistas deportivas junto al edificio V.7C y el aparcamiento P7B;3393;1
+11;Consumo elÃÂ©ctrico general de los edificios V.1A, V.1B y V.1D;39781509;1
+12;Consumo elÃÂ©ctrico general de los edificios V.1E y V.1H;32323;1
+13;Consumo elÃÂ©ctrico general de los edificios V.2E y V.3A;65420;1
+14;Consumo elÃÂ©ctrico general de los edificios V.5C y V.5D;48254;1
+15;Consumo elÃÂ©ctrico general de los edificios V.7I y V.7J;42377390;1
+16;Consumo elÃÂ©ctrico general del campo de fÃÂºtbol;2506;1
+17;Consumo elÃÂ©ctrico general del edificio V.1C;23241;1
+18;Consumo elÃÂ©ctrico general del edificio V.1F;48752;1
+19;Consumo elÃÂ©ctrico general del edificio V.1G;78659;1
+20;Consumo elÃÂ©ctrico general del edificio V.2A;4543105;1
+21;Consumo elÃÂ©ctrico general del edificio V.2B;7807190;1
+22;Consumo elÃÂ©ctrico general del edificio V.2C;5769625;1
+23;Consumo elÃÂ©ctrico general del edificio V.2D;9804423;1
+24;Consumo elÃÂ©ctrico general del edificio V.2F;70805;1
+25;Consumo elÃÂ©ctrico general del edificio V.3B;4771;1
+26;Consumo elÃÂ©ctrico general del edificio V.3F;2583458;1
+27;Consumo elÃÂ©ctrico general del edificio V.3M;2627327;1
+28;Consumo elÃÂ©ctrico general del edificio V.3N;1447652;1
+29;Consumo elÃÂ©ctrico general del edificio V.3P;83261;1
+30;Consumo elÃÂ©ctrico general del edificio V.4D;39180;1
+31;Consumo elÃÂ©ctrico general del edificio V.4F;1595;1
+32;Consumo elÃÂ©ctrico general del edificio V.4G;19467;1
+33;Consumo elÃÂ©ctrico general del edificio V.4I;6098;1
+34;Consumo elÃÂ©ctrico general del edificio V.4K;36614;1
+35;Consumo elÃÂ©ctrico general del edificio V.4L;13607145;1
+36;Consumo elÃÂ©ctrico general del edificio V.4P;27673;1
+37;Consumo elÃÂ©ctrico general del edificio V.4Q;22172;1
+38;Consumo elÃÂ©ctrico general del edificio V.5E;45300;1
+39;Consumo elÃÂ©ctrico general del edificio V.5G;2290;1
+40;Consumo elÃÂ©ctrico general del edificio V.5I;5666;1
+41;Consumo elÃÂ©ctrico general del edificio V.5K;12258;1
+42;Consumo elÃÂ©ctrico general del edificio V.5L;8030;1
+43;Consumo elÃÂ©ctrico general del edificio V.5M;877149;1
+44;Consumo elÃÂ©ctrico general del edificio V.5N;28835;1
+45;Consumo elÃÂ©ctrico general del edificio V.5O;5914;1
+46;Consumo elÃÂ©ctrico general del edificio V.5P;17226220;1
+47;Consumo elÃÂ©ctrico general del edificio V.5R;7341;1
+48;Consumo elÃÂ©ctrico general del edificio V.5S;5212;1
+49;Consumo elÃÂ©ctrico general del edificio V.6A;2495167;1
+50;Consumo elÃÂ©ctrico general del edificio V.6C;3426997;1
+51;Consumo elÃÂ©ctrico general del edificio V.6D;3327209;1
+52;Consumo elÃÂ©ctrico general del edificio V.6E;4381;1
+53;Consumo elÃÂ©ctrico general del edificio V.6F;24559;1
+54;Consumo elÃÂ©ctrico general del edificio V.6G;2500408;1
+55;Consumo elÃÂ©ctrico general del edificio V.7A;19560;1
+56;Consumo elÃÂ©ctrico general del edificio V.7C;15717;1
+57;Consumo elÃÂ©ctrico general del edificio V.7D;12913;1
+58;Consumo elÃÂ©ctrico general del edificio V.7F;31147;1
+59;Consumo elÃÂ©ctrico general del edificio V.7G;32087;1
+60;Consumo elÃÂ©ctrico general del edificio V.7H;1283256;1
+61;Consumo elÃÂ©ctrico general del edificio V.8A;1262;1
+62;Consumo elÃÂ©ctrico general del edificio V.8C;4343445;1
+63;Consumo elÃÂ©ctrico general del edificio V.8D;8092658;1
+64;Consumo elÃÂ©ctrico general del edificio V.8F;206212;1
+65;Consumo elÃÂ©ctrico general del edificio V.8H;10578;1
+66;Consumo elÃÂ©ctrico general del edificio V.8I y V.8J;161960;1
+67;Consumo elÃÂ©ctrico general del edificio V.8K;6921;1
+68;Consumo elÃÂ©ctrico general del edificio V.8N;1559480;1
+69;Consumo elÃÂ©ctrico general del edificio V.8P;2713508;1
+70;Consumo elÃÂ©ctrico general del edificio V.9A;461301;1
+71;Consumo elÃÂ©ctrico general del edificio V.9B;14130;1
+72;Consumo elÃÂ©ctrico general del edificio V.9C;2084251;1
+73;Consumo elÃÂ©ctrico general del edificio V.9D;4795179;1
+74;Consumo energÃÂ©tico general de la ETSII: edificios V.5F, V.5H y V.5J;22901107;1
+75;G.1A: consumo elÃÂ©ctrico general del edificio;34395;1
+76;G.1B: consumo elÃÂ©ctrico general del edificio;1052638;1
+77;G.1C: consumo elÃÂ©ctrico general del edificio;1481302;1
+78;G.1D: consumo elÃÂ©ctrico general del edificio;2075460;1
+79;G.1E: consumo elÃÂ©ctrico general del edificio;348089;1
+80;G.1F: consumo elÃÂ©ctrico general del edificio;162727;1
+81;G.1G: consumo elÃÂ©ctrico general del edificio;949520;1
+82;G.1H: consumo elÃÂ©ctrico general del edificio;31147;1
+83;IIE (prefabricado): consumo elÃÂ©ctrico general;18;1
+84;V.4N (ICITECH): consumo elÃÂ©ctrico general;296499;1
+85;0;0;0
+86;0;0;0
+87;0;0;0
+88;0;0;0
+89;0;0;0
+90;0;0;0
+91;0;0;0
+92;0;0;0
+93;0;0;0
+94;0;0;0
+95;0;0;0
+96;0;0;0
+97;0;0;0
+98;0;0;0
+99;0;0;0
+100;0;0;0
+101;0;0;0
+102;0;0;0
+103;0;0;0
+104;0;0;0
+105;0;0;0
+106;0;0;0
+107;0;0;0
+108;0;0;0
+109;0;0;0
+110;0;0;0
+111;0;0;0
+112;0;0;0
+113;0;0;0
+114;0;0;0
+115;0;0;0
+116;0;0;0
+117;0;0;0
+118;0;0;0
+119;0;0;0
+120;0;0;0
+121;0;0;0
+122;0;0;0
+123;0;0;0
+124;0;0;0
+125;0;0;0
+126;0;0;0
+127;0;0;0
+128;0;0;0
+129;0;0;0
+130;0;0;0
+131;0;0;0
+132;0;0;0
+133;0;0;0
+134;0;0;0
+135;0;0;0
+136;0;0;0
+137;0;0;0
+138;0;0;0
+139;0;0;0
+140;0;0;0
+141;0;0;0
+142;0;0;0
+143;0;0;0
+144;0;0;0
+145;0;0;0
+146;0;0;0
+147;0;0;0
+148;0;0;0
+149;0;0;0
+150;0;0;0
+151;0;0;0
+152;0;0;0
+153;0;0;0
+154;0;0;0
+155;0;0;0
+156;0;0;0
+157;0;0;0
+158;0;0;0
+159;0;0;0
+160;0;0;0
+161;0;0;0
+162;0;0;0
+163;0;0;0
+164;0;0;0
+165;0;0;0
+166;0;0;0
+167;0;0;0
+168;0;0;0
+169;0;0;0
+170;0;0;0
+171;0;0;0
+172;0;0;0
+173;0;0;0
+174;0;0;0
+175;0;0;0
+176;0;0;0
+177;0;0;0
+178;0;0;0
+179;0;0;0
+180;0;0;0
+181;0;0;0
+182;0;0;0
+183;0;0;0
+184;0;0;0
+185;0;0;0
+186;0;0;0
+187;0;0;0
+188;0;0;0
+189;0;0;0
+190;0;0;0
+191;0;0;0
+192;0;0;0
+193;0;0;0
+194;0;0;0
+195;0;0;0
+196;0;0;0
+197;0;0;0
+198;0;0;0
+199;0;0;0
