@@ -1,5 +1,6 @@
 # Consumo-Energetico-UPV
 Análisis del consumo energético en la UPV, a través de datos recogidos por sensores a lo largo del año
+Proyecto realizado junto a Carles Cuberos Saus, Héctor Martínez Cabanes, Daniel Oliver Belando, Alejandro Losa Brito y Jorge Santiago González
 
 ### Presentación 
 Este trabajo ha sido desarrollado en la asignatura de Proyecto 1: comprensión de datos, del grado de Ciencia de Datos de la UPV, cuya finalidad es realizar un proyecto orientado a la descripción, visualización y compresión de los datos de un problema real. En él, se aplican conocimientos adquiridos a lo largo del 1er curso del grado en Ciencia de Datos para trabajar con una base de datos real, en este caso sobre el consumo energético de la UPV.
@@ -21,3 +22,4 @@ Sin embargo, ¿es todo este gasto necesario e imprescindible para el correcto fu
 De esta forma, con este proyecto queremos analizar con detalle el consumo de gran parte de la UPV para determinar si este gasto energético puede ser más eficiente, y así rebajar está parte del presupuesto, siempre sin perder de vista el objetivo primordial de la universidad, que es prestar sus servicios a todos sus integrantes cuando lo requieran.
 
 Más información en Memoria.docx
+[Pequeña presentación del proyecto](https://prezi.com/view/OxK4LyLNWSxNtFGoBnKw/)
